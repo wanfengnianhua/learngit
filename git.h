@@ -13,5 +13,10 @@ Creating a new branch is quick.Git is free software.
 =======
 Creating a new branch is quick.Git is a distributed version control system.
 >>>>>>> feature1
+<<<<<<< HEAD
 Creating a new branch is quick.Git is free software.
 =======
+=======
+Creating a new branch is quick.Git is a distributed version control system.
+>>>>>>> feature1
+>>>>>>> dev

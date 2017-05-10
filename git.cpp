@@ -9,4 +9,8 @@ git::git()
 git::~git()
 {
 }
-dsffsfds
+dsffsfds.
+git::~git2()
+{
+}
+dsffsfds2
